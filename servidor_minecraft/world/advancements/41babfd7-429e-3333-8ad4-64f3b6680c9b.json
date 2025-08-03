@@ -1839,9 +1839,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-03 17:21:21 +0000",
       "main": "2025-08-03 16:40:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {

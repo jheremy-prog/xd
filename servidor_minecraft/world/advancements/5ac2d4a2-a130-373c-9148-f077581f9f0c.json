@@ -16,6 +16,7 @@
       "minecraft:forest": "2025-08-03 17:31:53 +0000",
       "minecraft:windswept_forest": "2025-08-03 17:32:08 +0000",
       "minecraft:windswept_savanna": "2025-08-03 16:39:44 +0000",
+      "minecraft:flower_forest": "2025-08-03 17:50:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-03 17:32:11 +0000",
       "minecraft:savanna": "2025-08-03 16:34:59 +0000",
       "minecraft:plains": "2025-08-03 17:31:36 +0000"
@@ -784,6 +785,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 16:54:59 +0000"
@@ -826,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-03 17:30:10 +0000"
@@ -865,6 +878,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-03 16:56:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-08-03 17:47:11 +0000"
     },
     "done": true
   },
@@ -961,6 +980,18 @@
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-08-03 17:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
     },
     "done": true
   },
@@ -1072,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-03 17:02:34 +0000"
@@ -1118,6 +1155,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 16:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
     },
     "done": true
   },
@@ -1187,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-03 17:30:39 +0000"
@@ -1223,6 +1272,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-08-03 17:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-03 16:54:11 +0000"
@@ -1256,6 +1311,12 @@
   "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-03 17:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
     },
     "done": true
   },
@@ -1622,6 +1683,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-03 17:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 17:47:11 +0000"
     },
     "done": true
   },
@@ -2897,6 +2964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2025-08-03 16:52:11 +0000"
@@ -3089,6 +3162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-03 16:50:29 +0000"
@@ -3099,6 +3178,7 @@
     "criteria": {
       "cooked_beef": "2025-08-03 17:35:01 +0000",
       "mutton": "2025-08-03 17:24:25 +0000",
+      "bread": "2025-08-03 17:51:15 +0000",
       "rotten_flesh": "2025-08-03 17:28:37 +0000",
       "cooked_chicken": "2025-08-03 17:10:41 +0000"
     },
@@ -3113,6 +3193,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-03 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 17:47:11 +0000"
     },
     "done": true
   },

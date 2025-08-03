@@ -1116,6 +1116,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-03 16:20:05 +0000"
@@ -1672,6 +1678,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-03 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-08-03 17:49:12 +0000"
     },
     "done": true
   },
@@ -2354,6 +2366,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-03 17:06:07 +0000"
@@ -2476,9 +2494,10 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2025-08-03 16:40:28 +0000"
+      "main": "2025-08-03 16:40:28 +0000",
+      "flower": "2025-08-03 17:46:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/misc/general/injection_0": {
     "criteria": {
@@ -2765,6 +2784,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-03 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:49:12 +0000"
     },
     "done": true
   },

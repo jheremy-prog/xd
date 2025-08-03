@@ -1310,3 +1310,11 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [03Aug2025 17:21:58.322] [Server thread/WARN] [de.teamlapen.vampirism.network.ServerboundUnlockSkillPacket/]: Skill vampirism:fledgling() cannot be activated for ServerPlayer['jheremy2509'/21505, l='ServerLevel[world]', x=-358.91, y=82.00, z=57.50] (ALREADY_ENABLED)
+[03Aug2025 17:36:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[03Aug2025 17:36:56.743] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[03Aug2025 17:36:56.746] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[03Aug2025 17:36:56.746] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[03Aug2025 17:36:56.747] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[03Aug2025 17:36:56.911] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[03Aug2025 17:37:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Sweet Dreams]
+[03Aug2025 17:37:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]

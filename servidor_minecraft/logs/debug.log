@@ -8873,3 +8873,24 @@ java.lang.Throwable: null
 [03Aug2025 19:09:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mdg ItzAlexMCYT niall no volvio hasta ahora?, estara hablando con secia, ese muchacho me llena de orgullo<--[HERE]
 [03Aug2025 19:09:54.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> nada :v
 [03Aug2025 19:10:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ItzAlexMCYT: niall no volvio hasta ahora?, estara hablando con secia, ese muchacho me llena de orgullo
+[03Aug2025 19:10:11.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 19:10:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 19:10:11.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItzAlexMCYT lost connection: Server closed
+[03Aug2025 19:10:11.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT left the game
+[03Aug2025 19:10:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2025 19:10:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2025 19:10:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2025 19:10:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2025 19:10:13.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 19:10:13.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 19:10:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2025 19:10:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2025 19:10:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2025 19:10:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2025 19:10:13.358] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[03Aug2025 19:10:13.358] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[03Aug2025 19:10:13.556] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[03Aug2025 19:10:13.556] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[03Aug2025 19:10:13.556] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[03Aug2025 19:10:13.556] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[03Aug2025 19:10:13.573] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

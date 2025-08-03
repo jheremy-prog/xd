@@ -1277,3 +1277,10 @@ java.lang.Throwable: null
 [03Aug2025 17:04:42.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> -145 -42 269
 [03Aug2025 17:05:41.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported ItzAlexMCYT to -144.500000, -42.000000, 269.500000]
 [03Aug2025 17:05:54.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25162, l='ServerLevel[world]', x=-359.36, y=88.00, z=103.20] died, message: 'Unemployed was slain by Zombie'
+[03Aug2025 17:07:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[03Aug2025 17:08:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[03Aug2025 17:11:28.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Surge Protector]
+[03Aug2025 17:13:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [Surge Protector]
+[03Aug2025 17:15:15.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> wq
+[03Aug2025 17:17:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[03Aug2025 17:17:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]

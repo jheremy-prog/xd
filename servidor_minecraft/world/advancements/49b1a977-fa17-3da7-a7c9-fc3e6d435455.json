@@ -2055,9 +2055,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-03 17:39:09 +0000",
       "main": "2025-08-03 16:30:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -2165,6 +2166,12 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-03 16:50:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:36:50 +0000"
     },
     "done": true
   },
@@ -2594,6 +2601,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-03 16:50:08 +0000"
@@ -2684,6 +2697,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 17:31:41 +0000"
@@ -2765,6 +2784,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-03 16:50:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-08-03 17:36:50 +0000"
     },
     "done": true
   },

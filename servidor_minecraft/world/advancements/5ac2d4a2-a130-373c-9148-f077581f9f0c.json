@@ -8,18 +8,22 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-08-03 17:32:00 +0000",
+      "minecraft:savanna_plateau": "2025-08-03 18:40:08 +0000",
       "minecraft:beach": "2025-08-03 16:47:07 +0000",
       "minecraft:dark_forest": "2025-08-03 17:33:29 +0000",
       "minecraft:mangrove_swamp": "2025-08-03 17:28:58 +0000",
+      "minecraft:sparse_jungle": "2025-08-03 18:37:23 +0000",
       "minecraft:lukewarm_ocean": "2025-08-03 16:58:35 +0000",
       "minecraft:river": "2025-08-03 16:47:11 +0000",
       "minecraft:dripstone_caves": "2025-08-03 18:00:04 +0000",
       "minecraft:swamp": "2025-08-03 18:14:37 +0000",
       "minecraft:forest": "2025-08-03 17:31:53 +0000",
       "minecraft:windswept_forest": "2025-08-03 17:32:08 +0000",
+      "minecraft:jungle": "2025-08-03 18:37:14 +0000",
       "minecraft:windswept_savanna": "2025-08-03 16:39:44 +0000",
       "minecraft:flower_forest": "2025-08-03 17:50:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-03 17:32:11 +0000",
+      "minecraft:meadow": "2025-08-03 18:41:00 +0000",
       "minecraft:savanna": "2025-08-03 16:34:59 +0000",
       "minecraft:plains": "2025-08-03 17:31:36 +0000"
     },
@@ -1267,6 +1271,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-08-03 16:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-03 18:42:04 +0000"
     },
     "done": true
   },
@@ -2590,6 +2600,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-08-03 18:46:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 16:54:59 +0000"
@@ -3295,6 +3311,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-03 16:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-03 18:42:04 +0000"
     },
     "done": true
   },

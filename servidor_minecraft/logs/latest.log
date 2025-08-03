@@ -1472,3 +1472,4 @@ java.lang.Throwable: null
 [03Aug2025 18:28:06.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nialll044444 lost connection: Disconnected
 [03Aug2025 18:28:06.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 left the game
 [03Aug2025 18:29:04.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT was slain by Zombie
+[03Aug2025 18:39:26.521] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}

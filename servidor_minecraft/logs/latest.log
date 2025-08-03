@@ -1211,3 +1211,45 @@ java.lang.Throwable: null
 [03Aug2025 16:35:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Spectator Mode]
 [03Aug2025 16:35:47.092] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
 [03Aug2025 16:35:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[03Aug2025 16:37:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[03Aug2025 16:38:37.255] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-156, y=68, z=-543}
+[03Aug2025 16:38:37.627] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-157, y=68, z=-543}
+[03Aug2025 16:39:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Stone Age]
+[03Aug2025 16:40:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[03Aug2025 16:41:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [Bloody Stream]
+[03Aug2025 16:41:18.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Getting an Upgrade]
+[03Aug2025 16:41:52.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to nialll044444]
+[03Aug2025 16:43:57.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT was shot by Skeleton
+[03Aug2025 16:43:59.110] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23135!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.13.jar%23135!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.13.jar%23135!/:1.20.1-1.10.13]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Aug2025 16:44:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[03Aug2025 16:44:38.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[03Aug2025 16:45:49.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jheremy2509 lost connection: Disconnected
+[03Aug2025 16:45:49.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 left the game
+[03Aug2025 16:46:01.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItzAlexMCYT lost connection: Disconnected
+[03Aug2025 16:46:01.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT left the game
+[03Aug2025 16:46:09.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jheremy2509[/127.215.128.40:54187] logged in with entity id 21505 at (-26.473791155655682, 80.0, -31.805935381744586)
+[03Aug2025 16:46:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 joined the game
+[03Aug2025 16:46:09.595] [Server thread/INFO] [Jade/]: Syncing config to jheremy2509 (49b1a977-fa17-3da7-a7c9-fc3e6d435455)
+[03Aug2025 16:46:15.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f9d5f73[id=<null>,name=ItzAlexMCYT,properties={},legacy=false] (/127.120.81.187:59767) lost connection: Disconnected
+[03Aug2025 16:46:32.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItzAlexMCYT[/127.120.81.187:39281] logged in with entity id 21661 at (-110.20552936298965, 62.0, 121.51388099974018)
+[03Aug2025 16:46:32.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT joined the game
+[03Aug2025 16:46:32.442] [Server thread/INFO] [Jade/]: Syncing config to ItzAlexMCYT (5ac2d4a2-a130-373c-9148-f077581f9f0c)
